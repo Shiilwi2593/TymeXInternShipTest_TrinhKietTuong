@@ -24,8 +24,10 @@ A modern currency conversion application built with the following technologies:
 ### Features
 - Real-time currency conversion
 - One-to-one currency conversion
-- One-to-many currency conversion
+- One-to-many currency conversion (limited to converting from EUR to other currencies due to free API restrictions)
 - User-friendly interface with modern design
+#### Note:
+Due to the limitations of the free version of the API, the one-to-many conversion feature only supports converting from EUR to other currencies. However, the one-to-one conversion feature allows users to select any currency for conversion.
 
 ### Getting Started
 1. Clone the repository:
