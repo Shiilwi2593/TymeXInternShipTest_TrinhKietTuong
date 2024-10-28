@@ -10,7 +10,7 @@ This repository contains my completed technical assessment challenges for the Ty
 
 ## Currency Converter Application
 
-### Video: 
+### Video: https://youtu.be/2xaxccZh3kE
 
 ### Overview
 A modern currency conversion application built with the following technologies:
