@@ -8,7 +8,7 @@ This repository contains my completed technical assessment challenges for the Ty
 └── Challenge2/           # Second challenge implementation
 ```
 
-## Currency Converter Application
+## Challenge 1: Currency Converter Application
 
 ### Video: https://youtu.be/2xaxccZh3kE
 
@@ -51,7 +51,7 @@ open CurrencyConverter.xcodeproj
 - Swift 6.0.0+
 - Active internet connection for API calls
 
-## Challenge 2
+## Challenge 2:
 
 ### Overview
 In Challenge 2, I solved two programming problems that demonstrate programming skills and logical thinking. The `Challenge2` folder contains:
