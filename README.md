@@ -81,7 +81,7 @@ open Challenge2.xcodeproj
 # Results will be displayed in the console
 ```
 
-### Console Output Example
+### Console Output
 ![ConsoleResult](https://github.com/user-attachments/assets/c97c8ea2-36a4-4ff6-aaee-d8c2848c7a41)
 
 ## Contact
