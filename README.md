@@ -16,7 +16,7 @@ This repository contains my completed technical assessment challenges for the Ty
 A modern currency conversion application built with the following technologies:
 - **Framework**: SwiftUI
 - **Language**: Swift
-- **Architecture**: MVC
+- **Architecture**: MVVM
 - **API Integration**:
   - [Exchange Rates API](https://exchangeratesapi.io/)
   - [Exchange Rate API](https://www.exchangerate-api.com/)
